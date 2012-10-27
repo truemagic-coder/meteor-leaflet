@@ -11,10 +11,10 @@
 6. cd your_meteor_project
 7. mrt add leaflet
 8. write the map code in Template.myTemplate.rendered
-9. set in your client code the default image path
+9. set in your client code the default image path 
 10. enclose the map div in your template with the constant tag 
 
-step 9
+step 9 (if code is in the client folder)
 ```javascript
 L.Icon.Default.imagePath = '../../leaflet'
 ```
