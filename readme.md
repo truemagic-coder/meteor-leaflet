@@ -14,7 +14,7 @@
 9. set in your client code the default image path 
 10. enclose the map div in your template with the constant tag 
 
-step 9 (if code is in the client folder)
+step 9 
 ```javascript
 L.Icon.Default.imagePath = '../../leaflet'
 ```
@@ -25,4 +25,5 @@ step 10
 ```
 
 ## Notes: 
-Meteor/Meteorite packages only allow Javascript (js) files to be inserted into the client and/or server - not css files or images.
+1. Step 9 - the file setting the path is relative to the leaflet [image] folder - public doesn't count as a folder in the path
+2. Meteor/Meteorite packages only allow Javascript (js) files to be inserted into the client and/or server - not css files or images.
