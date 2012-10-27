@@ -10,8 +10,14 @@
 5. cd your_meteor_project
 6. mrt add leaflet
 7. write the map code in Template.myTemplate.rendered
-8. set in your client code the default image path with L.Icon.Default.imagePath = '../../leaflet'
-9. enclose the map div in your template with the constant tag {{#constant}}<div id="map">{{/constant}} 
+8. set in your client code the default image path with 
+```javascript
+L.Icon.Default.imagePath = '../../leaflet'
+```
+9. enclose the map div in your template with the constant tag 
+```html
+{{#constant}}<div id="map">{{/constant}} 
+```
 
 ## Notes: 
 Meteor/Meteorite packages only allow Javascript (js) files to be inserted into the client and/or server - not css files or images.
