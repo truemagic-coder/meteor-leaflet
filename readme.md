@@ -11,13 +11,14 @@
 6. mrt add leaflet
 7. write the map code in Template.myTemplate.rendered
 8. set in your client code the default image path
+9. enclose the map div in your template with the constant tag 
 
+step 8
 ```javascript
 L.Icon.Default.imagePath = '../../leaflet'
 ```
 
-9. enclose the map div in your template with the constant tag 
-
+step 9
 ```html
 {{#constant}}<div id="map">{{/constant}} 
 ```
