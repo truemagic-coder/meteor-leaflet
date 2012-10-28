@@ -11,7 +11,7 @@
 
 step 4 
 ```javascript
-L.Icon.Default.imagePath = '../../leaflet'
+L.Icon.Default.imagePath = 'packages/leaflet/images'
 ```
 
 step 5
