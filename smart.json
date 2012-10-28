@@ -3,6 +3,6 @@
   "description": "Leaflet.js, a Javascript library for mobile-friendly interactive maps, packaged for Meteor. See http://leafletjs.com.",
   "homepage": "https://github.com/bevanhunt/meteor-leaflet",
   "author": "Bevan Hunt <me@bevanhunt.com> (http://www.bevanhunt.com)",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "git": "https://github.com/bevanhunt/meteor-leaflet.git"
 }
