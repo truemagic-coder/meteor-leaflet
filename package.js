@@ -3,6 +3,6 @@ Package.describe({
 });
 
 Package.on_use(function (api, where) {
-  where = where || ['client']
-  api.add_files('lib/leaflet/dist/leaflet-src.js', where);
+  api.add_files('lib/leaflet/dist/leaflet-src.js', 'client');
+  api.add_files('styles/leaflet.css', 'client');
 });
