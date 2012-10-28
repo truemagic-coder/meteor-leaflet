@@ -5,4 +5,9 @@ Package.describe({
 Package.on_use(function (api, where) {
   api.add_files('lib/leaflet/dist/leaflet-src.js', 'client');
   api.add_files('styles/leaflet.css', 'client');
+  api.add_files('images/layers.png', 'client');
+  api.add_files('images/marker-icon.png', 'client');
+  api.add_files('images/marker-shadow.png', 'client');
+  api.add_files('images/zoom-in.png', 'client');
+  api.add_files('images/zoom-out.png', 'client');
 });
