@@ -3,7 +3,7 @@
 [Leaflet.js](http://leafletjs.com/), a Javascript library for mobile-friendly interactive maps. 
 
 ## How to install 
-1. npm install meteorite (if not already installed)
+1. npm install -g meteorite (if not already installed)
 2. mrt add leaflet
 3. write the map code in Template.myTemplate.rendered
 4. set in your client code the default image path 
