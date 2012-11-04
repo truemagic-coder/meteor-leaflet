@@ -20,4 +20,4 @@ step 5
 ```
 
 ## Demo
-http://leaflet.meteor.com
+Meteor Leafet Demo  |  [GitHub](http://leaflet.meteor.com)  |  [Demo](https://github.com/bevanhunt/meteor-leaflet-demo)
