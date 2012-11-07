@@ -19,5 +19,8 @@ step 5
 {{#constant}}<div id="map">{{/constant}} 
 ```
 
+## Plugins
+If you want to add Leaflet plugins to your project - include them in your client folder - I prefer using the client/lib folder.
+
 ## Demo
 Meteor Leafet Demo  |  [GitHub](http://leaflet.meteor.com)  |  [Demo](https://github.com/bevanhunt/meteor-leaflet-demo)
