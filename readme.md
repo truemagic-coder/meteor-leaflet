@@ -24,3 +24,6 @@ If you want to add Leaflet plugins to your project - include them in your client
 
 ## Demo
 Meteor Leafet Demo  |  [GitHub](http://leaflet.meteor.com)  |  [Demo](https://github.com/bevanhunt/meteor-leaflet-demo)
+
+## License
+MIT/X11
