@@ -26,7 +26,7 @@ If you want to add Leaflet plugins to your project - include them in your client
 I suggest the free web service - [Orge Web Service](http://ogre.adc4gis.com/) 
 
 ## Demo
-Meteor Leafet Demo  |  [GitHub](http://leaflet.meteor.com)  |  [Demo](https://github.com/bevanhunt/meteor-leaflet-demo)
+Meteor Leafet Demo  |  [GitHub](https://github.com/bevanhunt/meteor-leaflet-demo)  |  [Demo](http://leaflet.meteor.com)
 
 ## License
 MIT/X11
