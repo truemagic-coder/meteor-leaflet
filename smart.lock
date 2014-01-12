@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "leaflet": {
+        "path": "."
+      }
+    },
+    "packages": {
+      "leaflet": {
+        "path": "."
+      }
+    }
+  }
+}
