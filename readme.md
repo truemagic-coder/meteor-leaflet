@@ -14,7 +14,7 @@ step 4
 ```javascript
   "packages": {
     "leaflet": {
-      "git": "https://github.com/bevanhunt/leaflet",
+      "git": "https://github.com/bevanhunt/meteor-leaflet",
       "branch": "master" 
     }
   }
