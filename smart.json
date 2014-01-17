@@ -3,6 +3,6 @@
   "description": "Leaflet.js, mobile-friendly interactive maps. http://leafletjs.com",
   "homepage": "https://github.com/bevanhunt/meteor-leaflet",
   "author": "Bevan Hunt <bevan@bevanhunt.com> (http://www.bevanhunt.com)",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "git": "https://github.com/bevanhunt/meteor-leaflet.git"
 }

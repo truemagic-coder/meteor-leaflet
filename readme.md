@@ -6,10 +6,20 @@ Current Version: 0.7.1
 
 ## How to install 
 1. npm install -g meteorite (if not already installed)
-2. mrt add leaflet
+2. edit the smart.json to reference the github repo
 3. write the map code in Template.myTemplate.rendered
 4. set in your client code the default image path 
 5. enclose the map div in your template with the constant tag 
+
+step 2
+```javascript
+  "packages": {
+    "leaflet": {
+      "git": "https://github.com/bevanhunt/meteor-leaflet.git",
+      "branch": "master" 
+    }
+  }
+```
 
 step 4 
 ```javascript
