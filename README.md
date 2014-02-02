@@ -2,7 +2,7 @@
 
 [Leaflet.js](http://leafletjs.com/), a Javascript library for mobile-friendly interactive maps. 
 
-Current Version: 0.7.1
+Current Version: 0.7.2
 
 ## How to install 
 1. npm install -g meteorite (if not already installed)
