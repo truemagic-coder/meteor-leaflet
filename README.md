@@ -38,3 +38,7 @@ Meteor Leafet Demo  |  [GitHub](https://github.com/bevanhunt/meteor-leaflet-demo
 
 ## License
 MIT/X11
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/bevanhunt/meteor-leaflet/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
