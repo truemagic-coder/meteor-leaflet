@@ -13,7 +13,7 @@ Current Version: 0.7.3
 
 step 4 
 ```coffeescript
-L.Icon.Default.imagePath = 'packages/leaflet/images'
+L.Icon.Default.imagePath = 'packages/mrt:leaflet/images'
 ```
 
 step 5 - example
