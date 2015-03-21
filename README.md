@@ -2,14 +2,13 @@
 
 [Leaflet.js](http://leafletjs.com/), a Javascript library for mobile-friendly interactive maps. 
 
-Current Version: 0.7.3
+Current Leaflet Version: 0.7.3 (stable at 2015-03-21)
 
 ## How to install 
-1. npm install -g meteorite (if not already installed)
-2. mrt add leaflet
-3. write the map code in Template.myTemplate.rendered
-4. set in your client code the default image path 
-5. optional - set your free tile provider - [Read Docs](https://github.com/leaflet-extras/leaflet-providers)
+1. meteor add beavanhunt:leaflet
+2. write the map code in Template.myTemplate.rendered
+3. set in your client code the default image path 
+4. optional - set your free tile provider - [Read Docs](https://github.com/leaflet-extras/leaflet-providers)
 
 step 4 
 ```coffeescript
