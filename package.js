@@ -1,14 +1,24 @@
 Package.describe({
-  summary: "Leaflet.js, mobile-friendly interactive maps. Read https://github.com/bevanhunt/meteor-leaflet for installation instructions."
+    name: "bevanhunt:leaflet",
+    summary: "Leaflet.js, mobile-friendly interactive maps. Read https://github.com/bevanhunt/meteor-leaflet for installation instructions. http://leafletjs.com",
+    git: "https://github.com/bevanhunt/meteor-leaflet.git",
+    author: "Bevan Hunt <bevan@bevanhunt.com> (http://www.bevanhunt.com)",
+    version: "0.3.10",
+    license: "MIT/X11"
 });
 
-Package.on_use(function (api, where) {
-  api.add_files('lib/leaflet.js', 'client');
-  api.add_files('lib/leaflet_providers.js', 'client');
-  api.add_files('styles/leaflet.css', 'client');
-  api.add_files('images/layers-2x.png', 'client');
-  api.add_files('images/layers.png', 'client');
-  api.add_files('images/marker-icon-2x.png', 'client');
-  api.add_files('images/marker-icon.png', 'client');
-  api.add_files('images/marker-shadow.png', 'client');
+Package.onUse(function (api) {
+
+    api.versionsFrom('1.0');
+
+    api.addFiles([
+        'lib/leaflet.js',
+        'lib/leaflet_providers.js',
+        'styles/leaflet.css',
+        'images/layers-2x.png',
+        'images/layers.png',
+        'images/marker-icon-2x.png',
+        'images/marker-icon.png',
+        'images/marker-shadow.png'
+    ],'client');
 });
