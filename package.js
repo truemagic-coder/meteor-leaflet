@@ -1,9 +1,9 @@
 Package.describe({
     name: "bevanhunt:leaflet",
-    summary: "Leaflet.js, mobile-friendly interactive maps. Read https://github.com/bevanhunt/meteor-leaflet for installation instructions. http://leafletjs.com",
+    summary: "Leaflet.js, mobile-friendly interactive maps.",
     git: "https://github.com/bevanhunt/meteor-leaflet.git",
     author: "Bevan Hunt <bevan@bevanhunt.com> (http://www.bevanhunt.com)",
-    version: "0.3.10",
+    version: "0.3.11",
     license: "MIT/X11"
 });
 
