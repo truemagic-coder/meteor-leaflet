@@ -2,7 +2,9 @@
 
 [Leaflet.js](http://leafletjs.com/), a Javascript library for mobile-friendly interactive maps. 
 
-Current Leaflet Version: 0.7.3 (stable at 2015-03-21)
+Packaged Files:
+- Leaflet Version: 0.7.3 (stable at 2015-03-21)
+- Lealeft Provider 1.0.23 (stable at 2015-03-22)
 
 ## How to install 
 1. meteor add beavanhunt:leaflet
@@ -10,14 +12,14 @@ Current Leaflet Version: 0.7.3 (stable at 2015-03-21)
 3. set in your client code the default image path 
 4. optional - set your free tile provider - [Read Docs](https://github.com/leaflet-extras/leaflet-providers)
 
-step 4 
-```coffeescript
-L.Icon.Default.imagePath = 'packages/mrt_leaflet/images'
+step 3 
+```javascript
+L.Icon.Default.imagePath = 'packages/bevanhunt_leaflet/images';
 ```
 
-step 5 - example
-```coffeescript
-L.tileLayer.provider('Stamen.Watercolor').addTo(map)
+step 4 - example
+```javascript
+L.tileLayer.provider('Stamen.Watercolor').addTo(map);
 ```
 
 ## Plugins
