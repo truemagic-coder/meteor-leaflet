@@ -3,8 +3,8 @@
 [Leaflet.js](http://leafletjs.com/), a Javascript library for mobile-friendly interactive maps. 
 
 Packaged Files:
-- Leaflet Version: 0.7.3 (stable at 2015-03-21)
-- Lealeft Provider 1.0.23 (stable at 2015-03-22)
+- Leaflet: 0.7.3 (stable at 2015-03-21)
+- Leaflet Providers: 1.0.23 (stable at 2015-03-22)
 
 ## How to install 
 1. meteor add beavanhunt:leaflet
