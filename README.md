@@ -6,6 +6,9 @@ Packaged Files:
 - Leaflet: 0.7.3 (stable at 2015-03-21)
 - Leaflet Providers: 1.0.23 (stable at 2015-03-22)
 
+## Demo
+Meteor Leafet Demo  |  [GitHub](https://github.com/bevanhunt/meteor-leaflet-demo)  |  [Demo](http://leaflet.meteor.com)
+
 ## How to install 
 1. meteor add beavanhunt:leaflet
 2. write the map code in Template.myTemplate.rendered
@@ -27,9 +30,6 @@ If you want to add Leaflet plugins to your project - include them in your client
 
 ## GeoJSON 
 I suggest the free web service - [Orge Web Service](http://ogre.adc4gis.com/) 
-
-## Demo
-Meteor Leafet Demo  |  [GitHub](https://github.com/bevanhunt/meteor-leaflet-demo)  |  [Demo](http://leaflet.meteor.com)
 
 ## License
 MIT/X11
