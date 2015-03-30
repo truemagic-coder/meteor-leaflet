@@ -17,7 +17,7 @@ Meteor Leafet Demo  |  [GitHub](https://github.com/bevanhunt/meteor-leaflet-demo
 
 step 3 
 ```javascript
-L.Icon.Default.imagePath = 'packages/bevanhunt_leaflet/images';
+L.Icon.Default.imagePath = '/packages/bevanhunt_leaflet/images';
 ```
 
 step 4 - example
