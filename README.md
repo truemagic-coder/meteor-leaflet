@@ -10,7 +10,7 @@ Packaged Files:
 Meteor Leafet Demo  |  [GitHub](https://github.com/bevanhunt/meteor-leaflet-demo)  |  [Demo](http://leaflet.meteor.com)
 
 ## How to install 
-1. meteor add beavanhunt:leaflet
+1. meteor add bevanhunt:leaflet
 2. write the map code in Template.myTemplate.rendered
 3. set in your client code the default image path 
 4. optional - set your free tile provider - [Read Docs](https://github.com/leaflet-extras/leaflet-providers)
