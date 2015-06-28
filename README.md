@@ -5,6 +5,7 @@
 Packaged Files:
 - Leaflet: 0.7.3 (stable at 2015-03-21)
 - Leaflet Providers: 1.0.23 (stable at 2015-03-22)
+- Leaflet Spin: 0.1.0 (stable at 2015-06-28)
 
 ## Demo
 Meteor Leafet Demo  |  [GitHub](https://github.com/bevanhunt/meteor-leaflet-demo)  |  [Demo](http://leaflet.meteor.com)
