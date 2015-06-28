@@ -3,7 +3,7 @@ Package.describe({
   summary: "Leaflet.js, mobile-friendly interactive maps.",
   git: "https://github.com/bevanhunt/meteor-leaflet.git",
   author: "Bevan Hunt <bevan@bevanhunt.com> (http://www.bevanhunt.com)",
-  version: "0.3.16",
+  version: "0.3.17",
   license: "MIT/X11"
 });
 
@@ -16,6 +16,7 @@ Package.onUse(function (api) {
   api.addFiles([
     'lib/leaflet.js',
     'lib/leaflet_providers.js',
+    'lib/leaflet_spin.js',
     'styles/leaflet.css',
     'images/layers-2x.png',
     'images/layers.png',
