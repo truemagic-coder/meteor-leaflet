@@ -1,11 +1,13 @@
 # Leaflet for Meteor
 
-[Leaflet.js](http://leafletjs.com/), a Javascript library for mobile-friendly interactive maps.
+## Purpose
+
+To provide a Meteor package based on Leaflet to quickly build powerful cross-platform map applications.
 
 ## Demo
 Meteor Leafet Demo  |  [GitHub](https://github.com/bevanhunt/meteor-leaflet-demo)  |  [Demo](http://leaflet.meteor.com)
 
-## Packaged Files
+## Packaged Libraries
 - Leaflet: 0.7.3
 - Leaflet Providers: 1.1.1
 - Leaflet Spin: 0.1.0
@@ -64,7 +66,7 @@ Meteor Leafet Demo  |  [GitHub](https://github.com/bevanhunt/meteor-leaflet-demo
       }
     ```
 
-## GeoJSON
+## GeoJSON Conversion
 I suggest the free web service - [Orge Web Service](http://ogre.adc4gis.com/)
 
 ## License
