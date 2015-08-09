@@ -56,7 +56,7 @@ Meteor Leafet Demo  |  [GitHub](https://github.com/bevanhunt/meteor-leaflet-demo
     ```
 
 - in Javascript client-side code user Leaflet Marker Cluster [optional]
-  
+
   - add marker cluster
     ```javascript
         if (Meteor.isClient) {
@@ -64,10 +64,10 @@ Meteor Leafet Demo  |  [GitHub](https://github.com/bevanhunt/meteor-leaflet-demo
           markers.addLayer(new L.Marker([51.5, -0.09]));
           map.addLayer(markers);
         }
-    ```javascript
+    ```
 
-## GeoJSON 
-I suggest the free web service - [Orge Web Service](http://ogre.adc4gis.com/) 
+## GeoJSON
+I suggest the free web service - [Orge Web Service](http://ogre.adc4gis.com/)
 
 ## License
 MIT/X11
