@@ -13,6 +13,9 @@ Meteor Leafet Demo  |  [GitHub](https://github.com/bevanhunt/meteor-leaflet-demo
 - Leaflet Spin: 0.1.0
 - Leaflet Marker Cluster: 0.4.0
 
+## Roadmap
+[Estimated Release Schedule](https://github.com/bevanhunt/meteor-leaflet/milestones)
+
 ## Usage
 - add this package to your Meteor project
   ```bash
