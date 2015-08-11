@@ -2,7 +2,7 @@
 
 ## Purpose
 
-To provide a Meteor package based on Leaflet to quickly build real-time cross-platform map apps.
+To provide a Meteor package to quickly build real-time cross-platform map apps.
 
 ## Demo
 Meteor Leafet Demo  |  [GitHub](https://github.com/bevanhunt/meteor-leaflet-demo)  |  [Demo](http://leaflet.meteor.com)
