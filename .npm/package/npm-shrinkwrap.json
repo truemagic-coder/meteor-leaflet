@@ -1,13 +1,10 @@
 {
   "dependencies": {
     "leaflet": {
-      "version": "0.7.3"
+      "version": "1.0.0-beta.1"
     },
     "leaflet-providers": {
       "version": "1.1.1"
-    },
-    "leaflet.markercluster": {
-      "version": "0.4.0"
     },
     "spin.js": {
       "version": "2.3.1"
