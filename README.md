@@ -59,15 +59,6 @@ Meteor Leafet Demo  |  [GitHub](https://github.com/bevanhunt/meteor-leaflet-demo
       }
     ```
 
-- in Javascript client-side code user Leaflet Marker Cluster [optional] to add marker cluster
-    ```javascript
-      if (Meteor.isClient) {
-        var markers = new L.MarkerClusterGroup();
-        markers.addLayer(new L.Marker([51.5, -0.09]));
-        map.addLayer(markers);
-      }
-    ```
-
 ## GeoJSON Conversion
 I suggest the free web service - [Orge Web Service](http://ogre.adc4gis.com/)
 
