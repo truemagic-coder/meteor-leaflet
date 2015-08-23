@@ -60,7 +60,9 @@ Meteor Leafet Demo  |  [GitHub](https://github.com/bevanhunt/meteor-leaflet-demo
     ```
 
 ## GeoJSON Conversion
-I suggest the free web service - [Orge Web Service](http://ogre.adc4gis.com/)
+We created a example branch using the geojson npm package in the [meteor-leaflet-demo](https://github.com/bevanhunt/meteor-leaflet-demo/tree/geojson)
+
+There is also [Orge Web Service](http://ogre.adc4gis.com/) for conversion.
 
 ## License
 MIT
