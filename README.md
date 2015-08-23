@@ -59,7 +59,10 @@ Meteor Leafet Demo  |  [GitHub](https://github.com/bevanhunt/meteor-leaflet-demo
       }
     ```
 
-- in Javascript client-side to create Reactive Popups [optional] - for more [info on Blaze.renderWithData](http://docs.meteor.com/#/full/blaze_renderwithdata)
+## Reactive Popups
+
+- in Javascript client-side to create Reactive Popups - more [info on Blaze.renderWithData](http://docs.meteor.com/#/full/blaze_renderwithdata).
+
   ```javascript
     if (Meteor.isClient) {
       // add marker to map
