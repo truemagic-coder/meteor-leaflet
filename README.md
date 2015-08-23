@@ -61,13 +61,14 @@ Meteor Leafet Demo  |  [GitHub](https://github.com/bevanhunt/meteor-leaflet-demo
 
 - Create Reactive Popups [optional] - for more [info on Blaze.renderWithData](http://docs.meteor.com/#/full/blaze_renderwithdata)
   ```javascript
+    // add marker to map
     var marker = L.marker([50.5, 30.5]).addTo(map);
     // wrapping node for bindPopup
     var containerNode = document.createElement('div');
-    // Which template to use for the popup? Some data for it, and attach it to the containerNode
+    // Which template to use for the popup? Some data for it, and attach it to node
     Blaze.renderWithData(Template.popup, dataContext, containerNode);
     // Finally bind the containerNode to the popup
-    marker.bindPopup(containerNode).openPopup()
+    marker.bindPopup(containerNode).openPopup();
   ```
 
 ## GeoJSON
