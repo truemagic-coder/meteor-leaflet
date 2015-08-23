@@ -60,9 +60,15 @@ Meteor Leafet Demo  |  [GitHub](https://github.com/bevanhunt/meteor-leaflet-demo
     ```
 
 ## GeoJSON
-* [meteor-leaflet-demo geojson branch](https://github.com/bevanhunt/meteor-leaflet-demo/tree/geojson) is an example app using the [geojson npm package](https://www.npmjs.com/package/geojson).
 
-* There is also [Orge Web Service](http://ogre.adc4gis.com/) for straight conversion.
+### From Arrays
+* [meteor-leaflet-demo geojson branch](https://github.com/bevanhunt/meteor-leaflet-demo/tree/geojson) is an example app arrays to GeoJSON using the [geojson npm package](https://www.npmjs.com/package/geojson).
+
+## From KML/GPX
+* [meteor-leaflet-demo KML branch](https://github.com/bevanhunt/meteor-leaflet-demo/tree/kml) is a example KML conversion app using the [togeojson npm package](https://www.npmjs.com/package/togeojson).
+
+## From other Formats
+* [Orge Web Service](http://ogre.adc4gis.com/) can be used for straight conversion.
 
 ## License
 MIT
