@@ -59,10 +59,10 @@ Meteor Leafet Demo  |  [GitHub](https://github.com/bevanhunt/meteor-leaflet-demo
       }
     ```
 
-## GeoJSON Conversion
-We created a example branch using the [geojson npm package](https://www.npmjs.com/package/geojson) in the [meteor-leaflet-demo](https://github.com/bevanhunt/meteor-leaflet-demo/tree/geojson)
+## GeoJSON
+* [meteor-leaflet-demo geojson branch](https://github.com/bevanhunt/meteor-leaflet-demo/tree/geojson) is an example app using the [geojson npm package](https://www.npmjs.com/package/geojson).
 
-There is also [Orge Web Service](http://ogre.adc4gis.com/) for conversion.
+* There is also [Orge Web Service](http://ogre.adc4gis.com/) for straight conversion.
 
 ## License
 MIT
