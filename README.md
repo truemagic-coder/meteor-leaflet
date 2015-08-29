@@ -87,5 +87,11 @@ Meteor Leafet Demo  |  [GitHub](https://github.com/bevanhunt/meteor-leaflet-demo
 ### From other Formats
 * [Orge Web Service](http://ogre.adc4gis.com/) can be used for straight conversion.
 
+## Featured Blog Posts
+
+* [GeoSpatital Indexing in Meteor](http://joshowens.me/using-mongodb-geospatial-index-with-meteor-js/)
+
+* [RealTime Maps in Meteor](http://asynchrotron.com/blog/2013/12/27/realtime-maps-with-meteor-and-leaflet/) - use bevanhunt:leaflet not mrt:leaflet
+
 ## License
 MIT
