@@ -1,6 +1,6 @@
 Package.describe({
   name: "bevanhunt:leaflet",
-  summary: "Leaflet.js, mobile-friendly interactive maps.",
+  summary: "Leaflet 1.0.0-beta-1 for Meteor.",
   git: "https://github.com/bevanhunt/meteor-leaflet.git",
   author: "Bevan Hunt <bevan@bevanhunt.com> (http://bevanhunt.com)",
   version: "1.0.0",
