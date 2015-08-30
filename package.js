@@ -1,9 +1,9 @@
 Package.describe({
   name: "bevanhunt:leaflet",
-  summary: "leaflet 1.0.0-beta.1",
+  summary: "leaflet 1.0.0-beta.1 - mobile-friendly maps.",
   git: "https://github.com/bevanhunt/meteor-leaflet.git",
   author: "Bevan Hunt <bevan@bevanhunt.com> (http://bevanhunt.com)",
-  version: "1.0.1",
+  version: "1.0.2",
   license: "MIT"
 });
 
