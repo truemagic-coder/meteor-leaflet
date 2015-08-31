@@ -35,7 +35,7 @@ Meteor Leafet Demo  |  [GitHub](https://github.com/bevanhunt/meteor-leaflet-demo
     }
   ```
 
-- in Javascript client-side code use a free tile provider [optional] - [Read Docs](https://github.com/leaflet-extras/leaflet-providers)
+- in Javascript client-side code use a free tile provider [optional] - [View Map Choices](http://leaflet-extras.github.io/leaflet-providers/preview/)
 
   ```javascript
     if (Meteor.isClient) {
