@@ -93,5 +93,7 @@ Meteor Leafet Demo  |  [GitHub](https://github.com/bevanhunt/meteor-leaflet-demo
 
 * [RealTime Maps in Meteor](http://asynchrotron.com/blog/2013/12/27/realtime-maps-with-meteor-and-leaflet/) - use bevanhunt:leaflet not mrt:leaflet
 
+* [Animate with D3 and Leaflet](http://zevross.com/blog/2014/09/30/use-the-amazing-d3-library-to-animate-a-path-on-a-leaflet-map/) (not Meteor specific)
+
 ## License
 MIT
