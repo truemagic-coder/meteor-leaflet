@@ -3,7 +3,7 @@ Package.describe({
   summary: "leaflet 1.0.0-beta.1 - mobile-friendly maps.",
   git: "https://github.com/bevanhunt/meteor-leaflet.git",
   author: "Bevan Hunt <bevan@bevanhunt.com> (http://bevanhunt.com)",
-  version: "1.2.0",
+  version: "1.2.1",
   license: "MIT"
 });
 
@@ -15,12 +15,14 @@ Npm.depends({
 
 Package.onUse(function (api) {
   api.versionsFrom('1.2');
-  api.addAssets([
+  api.addFiles([
     '.npm/package/node_modules/leaflet/dist/leaflet-src.js',
     '.npm/package/node_modules/leaflet-providers/leaflet-providers.js',
     '.npm/package/node_modules/spin.js/spin.js',
     'lib/leaflet_spin.js',
     'styles/leaflet.css',
+  ], 'client');
+  api.addAssets([
     'images/layers-2x.png',
     'images/layers.png',
     'images/marker-icon-2x.png',
