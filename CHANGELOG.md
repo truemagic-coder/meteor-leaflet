@@ -1,6 +1,6 @@
 # ChangeLog
 
-## 1.2.0
+## 1.2.1
 - support Meteor 1.2 with addAssets
 
 ## 1.0.0
