@@ -8,8 +8,8 @@ To provide a Meteor package to quickly build real-time cross-platform map apps.
 Meteor Leafet Demo  |  [GitHub](https://github.com/bevanhunt/meteor-leaflet-demo)  |  [Demo](http://leaflet.meteor.com)
 
 ## Packaged Libraries
-- [Leaflet: 1.0.0-beta.1](https://www.npmjs.com/package/leaflet)
-- [Leaflet Providers: 1.1.2](https://www.npmjs.com/package/leaflet-providers)
+- [Leaflet: 1.0.0-beta.2](https://www.npmjs.com/package/leaflet)
+- [Leaflet Providers: 1.1.6](https://www.npmjs.com/package/leaflet-providers)
 - [Leaflet Spin: 0.1.0](https://github.com/makinacorpus/Leaflet.Spin)
 
 ## Roadmap
