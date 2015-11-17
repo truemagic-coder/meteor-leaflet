@@ -20,13 +20,24 @@ Meteor Leafet Demo  |  [GitHub](https://github.com/bevanhunt/meteor-leaflet-demo
 
 ## Usage
 - add this package to your Meteor project
+
   ```bash
     meteor add bevanhunt:leaflet
   ```
 
 - add a map div to html
+
   ```html
     <div id='map'></div>
+  ```
+
+- add a style for map to css
+
+  ```css
+    #map {
+      min-height: 350px;
+      min-width: 100%;
+    }
   ```
 
 - in Javascript client-side code define Leaflet map with default image path
