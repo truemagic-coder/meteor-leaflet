@@ -5,7 +5,7 @@
 To provide a Meteor package to quickly build real-time cross-platform map apps.
 
 ## Meteor Package
-[meteor-leaflet](https://atmospherejs.com/bevanhunt/leaflet)
+[bevanhunt:meteor-leaflet](https://atmospherejs.com/bevanhunt/leaflet)
 
 ## Demo
 Meteor Leafet Demo  |  [GitHub](https://github.com/bevanhunt/meteor-leaflet-demo)  |  [Demo](http://leaflet.meteor.com)
