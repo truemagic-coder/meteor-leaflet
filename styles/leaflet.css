@@ -74,7 +74,8 @@
   height: 1px;
 }
 .lvml {
-  behavior: url(#default#VML);
+  /* removed this line to avoid breaking css build scripts trying to resolve path */
+  /* behavior: url(#default#VML);*/
   display: inline-block;
   position: absolute;
 }
