@@ -10,7 +10,7 @@ To provide a Meteor package to quickly build real-time cross-platform map apps.
 - Leaflet Version: 1.0.0-beta2 = bevanhunt:meteor-leaflet 1.3.1
 
 ## Demo
-Meteor Leafet Demo  |  [GitHub](https://github.com/bevanhunt/meteor-leaflet-demo)  |  [Demo](http://leaflet.meteor.com)
+Meteor Leafet Demo  |  [GitHub](https://github.com/bevanhunt/meteor-leaflet-demo)
 
 ## Packaged Libraries
 - [Leaflet: 0.7.7](https://www.npmjs.com/package/leaflet)
