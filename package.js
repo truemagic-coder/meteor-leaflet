@@ -3,7 +3,7 @@ Package.describe({
   summary: "leaflet - mobile-friendly maps.",
   git: "https://github.com/bevanhunt/meteor-leaflet.git",
   author: "Bevan Hunt <bevan@bevanhunt.com> (http://bevanhunt.com)",
-  version: "3.0.0",
+  version: "3.0.1",
   license: "MIT"
 });
 
