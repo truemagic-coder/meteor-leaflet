@@ -47,7 +47,7 @@ Meteor Leafet Demo  |  [GitHub](https://github.com/bevanhunt/meteor-leaflet-demo
 
   ```javascript
     if (Meteor.isClient) {
-      L.Icon.Default.imagePath = 'packages/bevanhunt_leaflet/images';
+      L.Icon.Default.imagePath = 'packages/bevanhunt_leaflet/images/';
       var map = L.map('map');
     }
   ```

@@ -1,13 +1,19 @@
 {
   "dependencies": {
     "leaflet": {
-      "version": "0.7.7"
+      "version": "1.0.0",
+      "resolved": "https://registry.npmjs.org/leaflet/-/leaflet-1.0.0.tgz",
+      "from": "leaflet@1.0.0"
     },
     "leaflet-providers": {
-      "version": "1.1.7"
+      "version": "1.1.15",
+      "resolved": "https://registry.npmjs.org/leaflet-providers/-/leaflet-providers-1.1.15.tgz",
+      "from": "leaflet-providers@1.1.15"
     },
     "spin.js": {
-      "version": "2.3.2"
+      "version": "2.3.2",
+      "resolved": "https://registry.npmjs.org/spin.js/-/spin.js-2.3.2.tgz",
+      "from": "spin.js@2.3.2"
     }
   }
 }
