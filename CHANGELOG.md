@@ -1,5 +1,9 @@
 # ChangeLog
 
+## 3.0.0
+- upgrade to Leaflet 1.0.0
+- upgrade Leaflet Providers 1.1.15
+
 ## 2.0.0
 - upgrade to Leaflet 0.7.7
 - upgrade to Leaflet Providers 1.1.7
