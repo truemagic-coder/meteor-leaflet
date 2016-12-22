@@ -5,7 +5,7 @@ To deploy this package to Atmosphere one needs permission. I am currently trying
 2. Add these lines in your .bashrc or .zshrc when testing (assuming meteor-leaflet is in /foo/bar) - this will use the local package and not the Atmosphere package
   ```bash
     # for meteor local package development
-    export PACKAGE_DIRS=/foo/bar
+    export METEOR_PACKAGE_DIRS=/foo/bar
   ```
 
 3. git clone the meteor-leaflet-demo app into a local dir
