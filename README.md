@@ -11,8 +11,8 @@ To provide a Meteor package to quickly build real-time cross-platform map apps.
 Meteor Leafet Demo  |  [GitHub](https://github.com/bevanhunt/meteor-leaflet-demo)
 
 ## Packaged Libraries
-- [Leaflet: 1.0.0](https://www.npmjs.com/package/leaflet)
-- [Leaflet Providers: 1.1.15](https://www.npmjs.com/package/leaflet-providers)
+- [Leaflet: 1.0.2](https://www.npmjs.com/package/leaflet)
+- [Leaflet Providers: 1.1.16](https://www.npmjs.com/package/leaflet-providers)
 - [Leaflet Spin: 0.1.0](https://github.com/makinacorpus/Leaflet.Spin)
 - [Spin.js: 2.3.2](https://www.npmjs.com/package/spin.js)
 
@@ -45,7 +45,7 @@ Meteor Leafet Demo  |  [GitHub](https://github.com/bevanhunt/meteor-leaflet-demo
 
   ```javascript
     if (Meteor.isClient) {
-      L.Icon.Default.imagePath = 'packages/bevanhunt_leaflet/images/';
+      L.Icon.Default.imagePath = '/packages/bevanhunt_leaflet/images/';
       var map = L.map('map');
     }
   ```
@@ -54,7 +54,7 @@ Meteor Leafet Demo  |  [GitHub](https://github.com/bevanhunt/meteor-leaflet-demo
 
   ```javascript
     if (Meteor.isClient) {
-      L.tileLayer.provider('Thunderforest.Outdoors').addTo(map);
+      L.tileLayer.provider('Stamen.Watercolor').addTo(map);
     }
   ```
 
