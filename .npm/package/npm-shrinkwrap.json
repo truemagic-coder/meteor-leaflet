@@ -10,6 +10,11 @@
       "resolved": "https://registry.npmjs.org/leaflet-providers/-/leaflet-providers-1.1.16.tgz",
       "from": "leaflet-providers@1.1.16"
     },
+    "leaflet.markercluster": {
+      "version": "1.0.2",
+      "resolved": "https://registry.npmjs.org/leaflet.markercluster/-/leaflet.markercluster-1.0.2.tgz",
+      "from": "leaflet.markercluster@1.0.2"
+    },
     "spin.js": {
       "version": "2.3.2",
       "resolved": "https://registry.npmjs.org/spin.js/-/spin.js-2.3.2.tgz",

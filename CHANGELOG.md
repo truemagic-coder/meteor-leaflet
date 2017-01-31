@@ -1,5 +1,8 @@
 # ChangeLog
 
+## 3.1.0
+- add leaflet.markercluster 1.0.2
+
 ## 3.0.3
 - upgrade to Leaflet 1.0.3
 
