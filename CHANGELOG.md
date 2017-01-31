@@ -1,5 +1,8 @@
 # ChangeLog
 
+## 3.1.1
+- upgrade to Leaflet Spin 1.1.0
+
 ## 3.1.0
 - add leaflet.markercluster 1.0.2
 
