@@ -3,13 +3,14 @@ Package.describe({
   summary: "leaflet - mobile-friendly maps.",
   git: "https://github.com/bevanhunt/meteor-leaflet.git",
   author: "Bevan Hunt <bevan@bevanhunt.com> (http://bevanhunt.com)",
-  version: "3.0.3",
+  version: "3.1.0",
   license: "MIT"
 });
 
 Npm.depends({
   "spin.js": "2.3.2",
   "leaflet": "1.0.3",
+  "leaflet.markercluster": "1.0.2",
   "leaflet-providers": "1.1.16"
 });
 
@@ -18,6 +19,9 @@ Package.onUse(function (api) {
   api.addFiles([
     '.npm/package/node_modules/leaflet/dist/leaflet-src.js',
     '.npm/package/node_modules/leaflet-providers/leaflet-providers.js',
+    '.npm/package/node_modules/leaflet.markercluster/dist/leaflet.markercluster-src.js',
+    '.npm/package/node_modules/leaflet.markercluster/dist/MarkerCluster.css',
+    '.npm/package/node_modules/leaflet.markercluster/dist/MarkerCluster.Default.css',
     '.npm/package/node_modules/spin.js/spin.js',
     'lib/leaflet_spin.js',
     'styles/leaflet.css',
