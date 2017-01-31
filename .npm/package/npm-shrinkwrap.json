@@ -1,9 +1,9 @@
 {
   "dependencies": {
     "leaflet": {
-      "version": "1.0.2",
-      "resolved": "https://registry.npmjs.org/leaflet/-/leaflet-1.0.2.tgz",
-      "from": "leaflet@1.0.2"
+      "version": "1.0.3",
+      "resolved": "https://registry.npmjs.org/leaflet/-/leaflet-1.0.3.tgz",
+      "from": "leaflet@1.0.3"
     },
     "leaflet-providers": {
       "version": "1.1.16",
