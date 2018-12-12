@@ -3,14 +3,14 @@ Package.describe({
   summary: "leaflet - mobile-friendly maps.",
   git: "https://github.com/bevanhunt/meteor-leaflet.git",
   author: "Bevan Hunt <bevan@bevanhunt.com> (http://bevanhunt.com)",
-  version: "3.1.1",
+  version: "3.2.0",
   license: "MIT"
 });
 
 Npm.depends({
-  "leaflet": "1.0.3",
-  "leaflet.markercluster": "1.0.2",
-  "leaflet-providers": "1.1.16",
+  "leaflet": "1.3.4",
+  "leaflet.markercluster": "1.4.1",
+  "leaflet-providers": "1.5.0",
   "leaflet-spin": "1.1.0",
   "spin.js": "2.3.2"
 });
