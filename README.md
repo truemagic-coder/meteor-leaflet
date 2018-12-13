@@ -11,9 +11,9 @@ To provide a Meteor package to quickly build real-time cross-platform map apps.
 Meteor Leafet Demo  |  [GitHub](https://github.com/bevanhunt/meteor-leaflet-demo)
 
 ## Packaged Libraries
-- [Leaflet: 1.0.3](https://www.npmjs.com/package/leaflet)
-- [Leaflet Providers: 1.1.16](https://www.npmjs.com/package/leaflet-providers)
-- [Leaflet MarkerCluster: 1.0.2](https://www.npmjs.com/package/leaflet.markercluster)
+- [Leaflet: 1.3.4](https://www.npmjs.com/package/leaflet)
+- [Leaflet Providers: 1.5.0](https://www.npmjs.com/package/leaflet-providers)
+- [Leaflet MarkerCluster: 1.4.1](https://www.npmjs.com/package/leaflet.markercluster)
 - [Leaflet Spin: 1.1.0](https://www.npmjs.com/package/leaflet-spin)
 - [Spin.js: 2.3.2](https://www.npmjs.com/package/spin.js)
 
